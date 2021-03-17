@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Web development and python**
 
-- 📝 I regularly write articles on [https://annamsaimanohar.medium.com/](https://annamsaimanohar.medium.com/)
+- 📝 I regularly write articles on [Medium](https://annamsaimanohar.medium.com/)
 
 - 💬 Ask me about **C,C++,Sql and DSA**
 
