@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/saimanohar_hm" target="blank"><img src="https://img.shields.io/twitter/follow/saimanohar_hm?logo=twitter&style=for-the-badge" alt="saimanohar_hm" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="coding.webp">
+
 - 🌱 I’m currently learning **Full stack Web development and Python**
 
 - 🤝 I’m looking for help with **Web development and python**
@@ -18,7 +20,6 @@
 
 - ⚡ Fun fact **I am a cinephilia person**
 
-<img align = "right" alt = "coding" width = "400" scr = 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
