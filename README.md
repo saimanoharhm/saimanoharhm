@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I am a cinephilia person**
 
+<img align = "right" alt = "coding" width = "400" scr = 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
