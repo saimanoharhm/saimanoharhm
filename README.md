@@ -1,7 +1,7 @@
 <img src="start.webp" width = "1000" height = "400">
 <h1 align="center">Hi 👋, I'm ANNAM SAI MANOHAR</h1>
 <h2 align="center">a front-end developer</h2>
-<h3 align="center">🧑‍🎓I am a Second Year Student at Sathyabama Institute of Science and Technology currently pursuing my Bachelors in Computer Science and Engineering. I am an exuberant tech enthusiast, and a self taught programmer. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
+<h3 align="center">🧑‍🎓I am a Second Year Student at Sathyabama Institute of Science and Technology currently pursuing my Bachelors in Computer Science and Engineering. I am an exuberant tech enthusiast, and a self taught programmer. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge.</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimanoharhm&label=Profile%20views&color=0e75b6&style=flat" alt="saimanoharhm" /> </p>
