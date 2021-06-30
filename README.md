@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="coding.webp">
 
-- 🌱 I’m currently learning **Back-end development & Java**
+- 🌱 I’m currently learning **Full Stack Web development & Java**
 
 - 👯 I’m looking to collaborate on **Full stack web development projects**
 
