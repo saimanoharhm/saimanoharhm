@@ -14,11 +14,11 @@
 
 - 👯 I’m looking to collaborate on **Full stack web development projects**
 
-- 📝 I regularly write articles on [https://annamsaihm.medium.com/](https://annamsaihm.medium.com/)
+- 📝 I regularly write articles on <a href="https://hashnode.com/@saimanoharhm"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" align="center"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 - 💬 Ask me about **Web Development & DSA**
 
-- 📫 How to reach me **saimanohar987@gmail.com**
+- 📫 How to reach me  **<a href="mailto:saimanohar987@gmail.com?subject=Hello%20Annam Sai Manohar,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>&nbsp;&nbsp;&nbsp;&nbsp;**
 
 - ⚡ Fun fact **I am a cinephilia person**
 
@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/annamsai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annamsai/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/saimanohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saimanohar" height="30" width="40" /></a>
 <a href="https://instagram.com/saimanohar_hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimanohar_hm" height="30" width="40" /></a>
-<a href="https://medium.com/@annamsaimanohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annamsaimanohar" height="30" width="40" /></a>
+<a href="https://hashnode.com/@saimanoharhm" target="blank"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" align="center" alt="saimanoharhm"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/saimanohar987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saimanohar987" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saimanohar_hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saimanohar_hm" height="30" width="40" /></a>
 </p>
