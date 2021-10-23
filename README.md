@@ -1,5 +1,6 @@
 <img src="start.webp" width = "1000" height = "400">
-<h1 align="center">Hi 👋, I'm ANNAM SAI MANOHAR</h1>
+<h1 align="center">Hi! 👋</h1>
+<h2 align="center">I'm ANNAM SAI MANOHAR / అన్నం సాయి మనోహర్</h2>
 <h3 align="center">a Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimanoharhm&label=Profile%20views&color=0e75b6&style=flat" alt="saimanoharhm" /> </p>
