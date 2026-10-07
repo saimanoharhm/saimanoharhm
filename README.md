@@ -1,48 +1,208 @@
-<img src="start.webp" width = "1000" height = "400">
-<h1 align="center">Hi! 👋</h1>
-<h2 align="center">I'm ANNAM SAI MANOHAR / అన్నం సాయి మనోహర్</h2>
-<h3 align="center">a Full-Stack Developer</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saimanoharhm&label=Profile%20views&color=0e75b6&style=flat" alt="saimanoharhm" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimanoharhm" alt="saimanoharhm" /></a> </p>
+# 👋 Hi, I'm **ANNAM SAI MANOHAR**
 
-<p align="left"> <a href="https://twitter.com/saimanohar_hm" target="blank"><img src="https://img.shields.io/twitter/follow/saimanohar_hm?logo=twitter&style=for-the-badge" alt="saimanohar_hm" /></a> </p>
+### Full-Stack Developer | React.js | Next.js | Node.js | TypeScript | MongoDB | PostgreSQL | Docker | AWS | AI & LLM Applications | B.E. CSE| Excellence Awardee 2k23
 
-<img align="right" alt="Coding" width="400" src="coding.webp">
+**Building scalable web applications and continuously improving my engineering skills.**
 
-- 🌱 I’m currently learning **Full Stack Web development & Java**
-
-- 👯 I’m looking to collaborate on **Full stack web development projects**
-
-- 📝 I regularly write articles on <a href="https://hashnode.com/@saimanoharhm"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" align="center"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-- 💬 Ask me about **Web Development & DSA**
-
-- 📫 How to reach me  **<a href="mailto:saimanohar987@gmail.com?subject=Hello%20Annam Sai Manohar,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>&nbsp;&nbsp;&nbsp;&nbsp;**
-
-- ⚡ Fun fact **I am a cinephilia person**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saimanohar_hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saimanohar_hm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/annamsai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annamsai/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saimanohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saimanohar" height="30" width="40" /></a>
-<a href="https://instagram.com/saimanohar_hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saimanohar_hm" height="30" width="40" /></a>
-<a href="https://hashnode.com/@saimanoharhm" target="blank"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" align="center" alt="saimanoharhm"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/saimanohar987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saimanohar987" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saimanohar_hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saimanohar_hm" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/saimanoharhm">
+    <img src="https://komarev.com/ghpvc/?username=saimanoharhm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/saimanoharhm?tab=followers">
+    <img src="https://img.shields.io/github/followers/saimanoharhm?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimanoharhm&show_icons=true&locale=en&layout=compact" alt="saimanoharhm" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimanoharhm&show_icons=true&locale=en" alt="saimanoharhm" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimanoharhm&" alt="saimanoharhm" /></p>
+<img align="right" width="350" src="coding.webp" alt="Coding">
+
+I'm **ANNAM SAI MANOHAR**, a Full-Stack Developer passionate about building modern, scalable and user-friendly web applications.
+
+* 🚀 Currently strengthening my **Full-Stack Development** skills
+* ⚛️ Working with **React.js, Next.js & TypeScript**
+* 🟢 Building backend applications with **Node.js & Express.js**
+* 🗄️ Working with **MongoDB & PostgreSQL**
+* 🐳 Learning **Docker & AWS**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🤝 Open to collaborating on interesting **Full-Stack projects**
+* ✍️ Sharing what I learn through technical articles
+* 🎬 **Cinephile | Developer | Lifelong Learner**
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
+</p>
+
+---
+
+# 🚀 What I'm Currently Working On
+
+```text
+Full-Stack Development
+        │
+        ├── Frontend
+        │     ├── HTML
+        │     ├── CSS
+        │     ├── Tailwind CSS
+        │     ├── JavaScript
+        │     ├── TypeScript
+        │     ├── React.js
+        │     └── Next.js
+        │
+        ├── Backend
+        │     ├── Node.js
+        │     └── Express.js
+        │
+        ├── Databases
+        │     ├── MongoDB
+        │     └── PostgreSQL
+        │
+        └── DevOps / Cloud
+              ├── Git & GitHub
+              ├── Docker
+              └── AWS
+```
+
+---
+
+# ⭐ Featured Projects
+
+### 🚧 Projects Coming Soon
+
+I'm currently building and improving projects around my Full-Stack stack.
+
+| Project                                                 | Stack                             | Description                          |
+| ------------------------------------------------------  | ---------------------------------- | ------------------------------------ |
+| 🚀 Project 01: AgriConnect — The Agriculture Super App  | TypeScript · React · Node · MongoDB · Docker · AWS · LLM APIs · RAG | An all-in-one agriculture marketplace connecting farmers with buyers, farm labour, machinery rentals, nurseries, agricultural products, and expert services.           |
+| 🛒 Project 02: BuildX — End-to-End Construction Platform | TypeScript · React · Node · MongoDB · Docker · AWS · LLM APIs · RAG              | A digital platform where a homeowner, contractor, builder or developer can manage an entire construction project — from planning and estimating to materials, labour, payments, quality checks and final handover. |
+| 📊 Project 03 | Next.js · PostgreSQL · Docker           | Production-style application         |
+
+> 📌 Project repositories will be added here as they are completed.
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saimanoharhm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimanoharhm&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimanoharhm&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# ✍️ Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+You can find my technical articles on **Hashnode**.
+
+<p>
+<a href="https://hashnode.com/@saimanoharhm">
+<img src="https://img.shields.io/badge/Read%20My%20Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🧠 Coding Profiles
+
+<p>
+<a href="https://leetcode.com/saimanohar_hm">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/saimanohar987">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/saimanohar">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/annamsai/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/saimanohar_hm">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://hashnode.com/@saimanoharhm">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+
+<a href="mailto:saimanohar987@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build → Learn → Ship → Improve → Repeat 🚀
+
+**Thanks for visiting my profile!**
+
+</div>
